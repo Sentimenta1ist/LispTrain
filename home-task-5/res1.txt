@@ -1,0 +1,2 @@
+5, Sasha, Simora, 20, 0, Volga, Black, 1980
+4, Maxim, Simora, 20, 3, Soul, White, 2011

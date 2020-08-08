@@ -1,0 +1,7 @@
+0, Dmytro, Ivanov, 20
+1, Petro, Petrov, 23
+2, Maxim, Sidorov, 20
+3, Dmytro, Kravzov, 27
+4, Maxim, Simora, 20
+5, Sasha, Simora, 20
+6, neSasha, Simora, 0
